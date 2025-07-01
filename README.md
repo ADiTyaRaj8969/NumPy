@@ -1,4 +1,4 @@
-# NumPy Learning Repository
+### 🧮 NumPy Learning Repository
 
 A comprehensive collection of Jupyter Notebooks designed to explore and demonstrate the core features and capabilities of the NumPy library for Python. This repository provides hands-on experience with one of the most fundamental packages for scientific computing in Python.
 

@@ -113,5 +113,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The scientific Python community for continuous inspiration
 
 ---
+## 🔗 Connect with Me
+
+- 🔗 GitHub: [@ADiTyaRaj8969](https://github.com/ADiTyaRaj8969)  
+- ✉️ Email: adivid198986@gmail.com  
+- 💼 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-710a5a291/)
+
+---
 
 **Happy Learning! 🐍📊**
